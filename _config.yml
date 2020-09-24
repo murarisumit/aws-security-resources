@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+markdown: GFM
+title: Sample site
+github:
+  is_project_page: false
